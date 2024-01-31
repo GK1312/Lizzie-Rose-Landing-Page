@@ -1,4 +1,4 @@
-# Landing Page Preview
+# Lizzie Rose Landing Page Preview
 
 This repository contains the source code for a landing page.
 
