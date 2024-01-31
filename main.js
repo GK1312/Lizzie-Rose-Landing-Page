@@ -76,5 +76,7 @@ $(document).ready(function () {
     addActiveClass(aboutLinks);
   } else if (window.location.href.indexOf("#contact") !== -1) {
     addActiveClass(contactLinks);
+  } else {
+    addActiveClass(homeLinks);
   }
 });
