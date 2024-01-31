@@ -8,7 +8,7 @@ This repository contains the source code for a landing page.
 
 ## Live Demo
 
-You can view a live demo of the landing page [here](#).
+You can view a live demo of the landing page [here](https://gk1312.github.io/Lizzie-Rose-Landing-Page/).
 
 ## Description
 
